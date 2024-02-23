@@ -1,0 +1,17 @@
+/* styles/customJumbotron.css */
+
+.custom-jumbotron {
+    background-color: #f8f9fa; /* Set your desired background color */
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.custom-jumbotron h1 {
+    font-size: 2.5rem; /* Set your desired heading font size */
+}
+
+.custom-jumbotron .lead {
+    font-size: 1.25rem; /* Set your desired lead text font size */
+}
